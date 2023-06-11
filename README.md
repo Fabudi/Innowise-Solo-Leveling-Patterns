@@ -2,11 +2,10 @@
 Some fun stuff to get better at Kotlin, Android and so on.
 
 Roadmap:
- - [ ] Builder Pattern
- - [ ] Singletone Pattern
- - [ ] Factory Method Pattern
- - [ ] Facade Pattern
- - [ ] Observer Pattern
+ - [x] Builder Pattern
+ - [x] Singletone Pattern
+ - [x] Factory Method Pattern
+ - [x] Facade Pattern
 
 ---
 Time logging - [*click*](https://docs.google.com/spreadsheets/d/1tCsIlBpq6zRfYXHrZEjBGpv-GEw0WGHxxgDKYYBiJyU/edit?usp=sharing)
