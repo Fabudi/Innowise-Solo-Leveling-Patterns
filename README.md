@@ -1,13 +1,13 @@
-# Innowise Solo Leveling
-Some fun stuff to get better at Kotlin, Android and so on.
+# Innowise Solo Leveling. Patterns
 
-Roadmap:
- - [x] Builder Pattern
- - [x] Singletone Pattern
- - [x] Factory Method Pattern
- - [x] Facade Pattern
+Common patterns examples in Kotlin.
+## Roadmap
 
----
-Time logging - [*click*](https://docs.google.com/spreadsheets/d/1tCsIlBpq6zRfYXHrZEjBGpv-GEw0WGHxxgDKYYBiJyU/edit?usp=sharing)
+- Builder 
 
-Plan - [*click*](https://docs.google.com/presentation/d/1pjXTtESUtPAdMbaGABRx97OiQ-3XjznMfieOi5Yz1Jg/edit#slide=id.g11e3de6a326_0_55)
+- Singletone 
+
+- Factory Method
+
+- Facade 
+
